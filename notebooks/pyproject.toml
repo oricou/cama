@@ -1,0 +1,16 @@
+[project]
+name = "nn"
+version = "0.1.0"
+description = "Altribe 2"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "numpy",
+  "pandas",
+  "jupyter",
+  "nbconvert",
+  "matplotlib",
+  "seaborn",
+  "plotly",
+  "fiona",
+]
