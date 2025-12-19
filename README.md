@@ -2,8 +2,8 @@
 
 This course is visible online / ce cours est en ligne :
 
-https://www.ricou.eu.org/cama_fr/Table%20des%20mati%C3%A8res.html
-https://www.ricou.eu.org/cama_en/Table%20of%20contents.html
+- [Table des matière}(https://www.ricou.eu.org/cama_fr/Table%20des%20mati%C3%A8res.html)
+- [Table of content}(https://www.ricou.eu.org/cama_en/Table%20of%20contents.html)
 
 ## Make
 
